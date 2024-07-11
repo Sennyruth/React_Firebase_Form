@@ -1,0 +1,38 @@
+.form-container{
+    background-color:white;
+    width:20rem;
+    border-radius: 10px;
+    padding-left: 10px;
+    color:blue;
+ }
+
+ .form-maincontainer{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     border: solid blue;
+     border-radius: 20px;
+     width: 30rem;
+     height: 30rem;
+ }
+ .formtext{
+     color: white;
+ }
+ input{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid blue;
+    width: 20rem;
+ }
+ label{
+    font-size: 20px;
+ }
+ button{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+ }
